@@ -6,9 +6,11 @@
 <h3 align="center">Connect with me on LinkedIn : <a href="https://linkedin.com/in/gopal-choudhary-032b791aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopal-choudhary-032b791aa" height="20" width="30" /></a> </h3>
 <h3 align="center">Coding Profiles :  </h3>
 <p align="center">
-  <a href="https://atcoder.jp/users/gck_16" target="blank"><img align="center" src="https://www.ioi-jp.org/image/atcoder.png" alt="gck-atcoder" height="30" width="40" /></a> 
-<a href="https://www.codechef.com/users/gck_16" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gck_16" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gck_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gck_16" height="30" width="40" /></a>
+  <a href="https://www.stopstalk.com/user/profile/gck_16" target="blank"><img align="center" src="https://avatars1.githubusercontent.com/u/14951079?s=400&v=4" alt="gck-stopstalk" height="40" width="40" /></a>
+  <a href="https://www.hackerrank.com/gopal_b190501cs?hr_r=1" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="gck-HackerRank" height="40" width="40" /></a>
+  <a href="https://atcoder.jp/users/gck_16" target="blank"><img align="center" src="https://www.ioi-jp.org/image/atcoder.png" alt="gck-atcoder" height="40" width="40" /></a> 
+<a href="https://www.codechef.com/users/gck_16" target="blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="gck_16-Codechef" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/gck_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gck_16-Codeforces" height="40" width="40" /></a>
   
 </p>
 <p>&nbsp;</p>
