@@ -1,8 +1,8 @@
 <h1 align="center">Hey ,K Gopal Choudhary here</h1>
 <h3 align="center">A passionate Backend developer and Data Science Enthusiast from Hyderabad, India</h3>
-<h4 align="center">✉️ <a href = "mailto: gopalchoudhary6610@gmail.com">Reach me using Email </a></h4>
+<h4 align="center">✉️ <a href = "mailto: gopalchoudhary6610@gmail.com">Reach me using Mail </a></h4>
 <p >&nbsp;</p>
-
+<h3 align="center">Portfolio Website <a href="https://gc6610.github.io/">🔗</a></h3>
 <h3 align="center">Connect with me on LinkedIn : <a href="https://linkedin.com/in/gopal-choudhary-032b791aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gopal-choudhary-032b791aa" height="20" width="30" /></a> </h3>
 <h3 align="center">Coding Profiles :  </h3>
 <p align="center">
@@ -11,6 +11,7 @@
   <a href="https://atcoder.jp/users/gck_16" target="blank"><img align="center" src="https://www.ioi-jp.org/image/atcoder.png" alt="gck-atcoder" height="40" width="40" /></a> 
 <a href="https://www.codechef.com/users/gck_16" target="blank"><img align="center" src="https://s3.amazonaws.com/codechef_shared/misc/fb-image-icon.png" alt="gck_16-Codechef" height="40" width="40" /></a>
 <a href="https://codeforces.com/profile/gck_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gck_16-Codeforces" height="40" width="40" /></a>
+  <a href="https://leetcode.com/gck_16/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="gck_16-Leetcode" height="40" width="40" /></a>
   
 </p>
 <p>&nbsp;</p>
